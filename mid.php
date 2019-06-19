@@ -7,4 +7,7 @@
 
 	echo $depan + $belakng;
 
+	echo "Pembaruan php1";
+
+
 ?>
